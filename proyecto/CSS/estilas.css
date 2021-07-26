@@ -1,0 +1,104 @@
+body{
+
+    background: linear-gradient(243.39deg, #033859 0.31%, #0F9FBF 100%);
+    width: 1440px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+}
+.titulo{
+
+   
+
+    font-family: 'Griffy', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 80px;
+    line-height: 108px;
+    position: absolute;
+width: 240px;
+height: 108px;
+left: 438px;
+top: calc(50% - 108px/2 - 131px);
+z-index: 100;
+}
+
+.texto{
+    position: absolute;
+    width: 328px;
+    height: 218px;
+    left: 394px;
+    top: 449px;
+    
+    font-family: 'Grenze Gotisch', cursive;
+        font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    z-index: 100;
+}
+.imagenn{
+    position: absolute;
+width: 570px;
+height: 340px;
+left: 735px;
+top: 320px;
+z-index: 100;
+
+background: url(lol.png);
+}
+.cuadrado{
+    position: absolute;
+width: 724px;
+height: 478px;
+left: 360px;
+top: 284px;
+
+background: #033859;
+border-radius: 18px;
+}
+.i1{
+    position: absolute;
+width: 52px;
+height: 52px;
+left: 506px;
+top: 685px;
+
+background: url(image.png);
+}
+.i2{
+    position: absolute;
+    width: 55px;
+    height: 52px;
+    left: 588px;
+    top: 685px;
+    
+    background: url(image.png);
+}.i3{
+    position: absolute;
+    width: 52px;
+    height: 52px;
+    left: 685px;
+    top: 685px;
+    
+    background: url(image.png);
+}.i4{
+    position: absolute;
+    width: 53px;
+    height: 52px;
+    left: 779px;
+    top: 685px;
+    
+    background: url(image.png);
+}.i5{
+    position: absolute;
+    width: 60px;
+    height: 52px;
+    left: 874px;
+    top: 685px;
+    
+    background: url(image.png);
+}
